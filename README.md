@@ -1,4 +1,4 @@
-# projeto-DSMovie
+DSMovie
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/LICENSE) 
 
