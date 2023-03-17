@@ -9,12 +9,11 @@ DSMovie é uma aplicação full stack web e mobile construída durante a **Seman
 The application consists of a web page with a list of some movies. The page allows user interaction through ratings of movies listed in the web app. 
 
 ## Layout mobile
-![Mobile 1](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/mob1.PNG) ![Mobile 2](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/mob2.PNG)
+![Mobile 1](https://github.com/romuloabbiati/images/blob/main/dsmovie2.png) 
+![Mobile 2](https://github.com/romuloabbiati/images/blob/main/dsmovie3.png)
 
 ## Layout web
-![Web1](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/web1.PNG)
-![Web2](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/web2.PNG)
-![Web3](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/web3.PNG)
+![Web1](https://github.com/romuloabbiati/images/blob/main/dsmovie1.png)
 
 ## Conceptual model
 ![Modelo Conceitual](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/MC.PNG)
