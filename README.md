@@ -34,6 +34,7 @@ The application consists of a web page with a list of some movies. The page allo
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: Postgresql
+- Note: project is not running on Heroku anymore due to cost to maintain the app running
 
 
 # Author
