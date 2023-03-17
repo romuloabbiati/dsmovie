@@ -43,7 +43,7 @@ Pre-requisite: Java 11
 
 ```bash
 # clone repository
-git clone https://github.com/romuloabbiati/dsmeta
+git clone https://github.com/romuloabbiati/dsmovie
 
 # go to project's back end folder
 cd backend
@@ -57,7 +57,7 @@ Pre-requisite: npm / yarn
 
 ```bash
 # clone repository
-git clone https://github.com/romuloabbiati/dsmeta
+git clone https://github.com/romuloabbiati/dsmovie
 
 # go to project's front end folder
 cd front-web
