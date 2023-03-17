@@ -15,8 +15,8 @@ The application consists of a web page with a list of some movies. The page allo
 ## Layout web
 ![Web1](https://github.com/romuloabbiati/images/blob/main/dsmovie1.png)
 
-## Conceptual model
-![Modelo Conceitual](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/MC.PNG)
+## UML model
+![Modelo Conceitual](https://github.com/romuloabbiati/images/blob/main/dsmovie4.png)
 
 # Technologies used
 ## Back end
