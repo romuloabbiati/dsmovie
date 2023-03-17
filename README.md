@@ -1,6 +1,6 @@
 DSMovie
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/romuloabbiati/dsmeta/blob/main/LICENSE)  
 
 # About the project
 
