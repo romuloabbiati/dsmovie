@@ -36,6 +36,38 @@ The application consists of a web page with a list of some movies. The page allo
 - Banco de dados: Postgresql
 - Note: project is not running on Heroku anymore due to cost to maintain the app running
 
+# How to run the application
+
+## Back end
+Pre-requisite: Java 11
+
+```bash
+# clone repository
+git clone https://github.com/romuloabbiati/dsmeta
+
+# go to project's back end folder
+cd backend
+
+# run the application
+./mvnw spring-boot:run
+```
+
+## Front end web
+Pre-requisite: npm / yarn
+
+```bash
+# clone repository
+git clone https://github.com/romuloabbiati/dsmeta
+
+# go to project's front end folder
+cd front-web
+
+# install dependencies
+yarn install
+
+# run the application
+yarn start
+```
 
 # Author
 
